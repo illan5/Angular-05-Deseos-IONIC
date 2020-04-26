@@ -12,3 +12,7 @@ Run `ionic serve` for a dev server. Navigate to `http://localhost:8100/`. The ap
 ## Resources
 
 Icons -> https://ionicons.com/
+
+## References
+
+This is an exercise of Udemy course (https://www.udemy.com/angular-2-fernando-herrera/) By Fernando Herrera (https://github.com/Klerith)
